@@ -25,6 +25,10 @@ MIT License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+### Demo
+
+A video demonstration of the application's API endpoints can be found [here](https://drive.google.com/file/d/1-P4DVoK9AS6ueaimj9BYq9nm04HVGicp/view?usp=sharing).
+
 ## Features
 
 - Create, read, update, and delete categories
@@ -33,47 +37,51 @@ MIT License
 
 ## Mock-Up
 
-### Screenshots
-
 The following screenshots show the application's API endpoints in Insomnia:
 
-- Categories
+### Categories
 
-  All Categories
-  ![Categories-All](./assets/images/categories-all.png)
+All Categories
 
-  One Category
-  ![Categories-One](./assets/images/categories-one.png)
+![Categories-All](./assets/images/categories-all.png)
 
-- Products
+One Category
 
-  All Products
-  ![Products](./assets/images/products.png)
+![Categories-One](./assets/images/categories-one.png)
 
-  One Product
-  ![Products-One](./assets/images/products-one.png)
+### Products
 
-- Tags
+All Products
 
-  All Tags
-  ![Tags](./assets/images/tags.png)
+![Products](./assets/images/products-all.png)
 
-  One Tag
-  ![Tags-One](./assets/images/tags-one.png)
+One Product
 
-- Post/Update/Delete
-  Post
-  ![Post](./assets/images/post.png)
+![Products-One](./assets/images/products-one.png)
 
-  Update
-  ![Update](./assets/images/update.png)
+### Tags
 
-  Delete
-  ![Delete](./assets/images/delete.png)
+All Tags
 
-### Demo
+![Tags](./assets/images/tags-all.png)
 
-The following animation demonstrates the application functionality:
+One Tag
+
+![Tags-One](./assets/images/tags-one.png)
+
+### Post/Update/Delete
+
+Post
+
+![Post](./assets/images/post.png)
+
+Update
+
+![Update](./assets/images/update.png)
+
+Delete
+
+![Delete](./assets/images/delete.png)
 
 ## Learning Outcomes
 
